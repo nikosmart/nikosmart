@@ -2,7 +2,7 @@
 
 <p align="center">
   Self-taught. Lublin, Poland. Building digital products that solve real problems.<br/>
-  <a href="https://nikosmart.pl">nikosmart.pl</a> · <a href="mailto:nikodemstanekk@gmail.com">nikodemstanekk@gmail.com</a>
+  <a href="https://nikosmart.pl">nikosmart.pl</a> · <a href="mailto:kontakt@nikosmart.pl">kontakt@nikosmart.pl</a>
 </p>
 
 ---
@@ -40,6 +40,7 @@
 
 **AI & Automation**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Design & Graphics**
