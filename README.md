@@ -72,8 +72,8 @@ LAN design · CISCO devices · firewall config · network security · full OS st
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sokin-cpu&show_icons=true&theme=dark&hide_border=true&bg_color=1c1a17&title_color=f5c518&icon_color=f5c518" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokin-cpu&layout=compact&theme=dark&hide_border=true&bg_color=1c1a17&title_color=f5c518" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikosmart&show_icons=true&theme=dark&hide_border=true&bg_color=1c1a17&title_color=f5c518&icon_color=f5c518" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosmart&layout=compact&theme=dark&hide_border=true&bg_color=1c1a17&title_color=f5c518" height="150"/>
 </p>
 
 ---
