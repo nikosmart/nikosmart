@@ -2,7 +2,7 @@
 
 <p align="center">
   Self-taught. Lublin, Poland. Building digital products that solve real problems.<br/>
-  <a href="https://nikosmart.pl">nikosmart.pl</a> · <a href="mailto:kontakt@nikosmart.pl">kontakt@nikosmart.pl</a>
+  <a href="https://nikosmart.pl">nikosmart.pl</a> · <a href="mailto:staneknikodem1@gmail.com">staneknikodem1@gmail.com</a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - **Web platforms & landing pages** — full-stack apps, custom CMSes, B2B tools
 - **AI-powered systems** — personal OS, automation, intelligent workflows
 - **Trading & fintech** — algorithmic bots, market data pipelines
-- **Infrastructure** — Linux servers, LAN design, security hardening, CISCO
+- **Infrastructure** — Linux servers, LAN setup, OS deployment, monitoring
 
 ---
 
@@ -27,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -36,7 +37,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 **AI & Automation**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -54,19 +54,19 @@
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| **DetailPro** | Full-stack platform for a mobile detailing company — booking, quotes, admin panel | React · Vite · Supabase |
-| **AURA** | AI Personal OS — life & task management system powered by AI | React · OpenAI |
-| **PHONEKOM** | B2B platform for iPhone buyback operations | React · Supabase · REST API |
-| **GoldBot** | Algorithmic trading bot for XAU/USD — live market data, automated execution | Python · Trading APIs |
-| **MayaLav** | Premium landing page for a general contractor | HTML · CSS · JS |
-| **nikosmart.pl** | My developer portfolio | Vanilla HTML/CSS/JS |
+| **[DetailPro](https://github.com/nikosmart/detailpro)** | Full-stack platform for a mobile detailing company — booking, quotes, admin panel | React · Vite · Supabase |
+| **[AURA](https://github.com/nikosmart/aura)** | AI Personal OS — life & task management system powered by AI | React · OpenAI |
+| **[PHONEKOM](https://github.com/nikosmart/phonekom)** | B2B platform for iPhone buyback operations | React · Supabase · REST API |
+| **[GoldBot](https://github.com/nikosmart/goldbot)** | Algorithmic trading system for XAU/USD — live market data stream, signal engine, web dashboard | Node.js · Express · WebSocket |
+| **[MayaLav](https://github.com/nikosmart/mayalav)** | Premium landing page for a general contractor | HTML · CSS · JS |
+| **[nikosmart.pl](https://github.com/nikosmart/nikosmart.pl)** | My developer portfolio | Vanilla HTML/CSS/JS |
 
 ---
 
 ## Hardware & Networking
 
 Beyond software — I diagnose, repair and build hardware: computers, servers, printers, networking equipment.
-LAN design · CISCO devices · firewall config · network security · full OS stack from Windows 98 to Arch Linux.
+LAN setup · router & switch configuration · printer service · full OS stack from Windows 98 to Arch Linux.
 
 ---
 
